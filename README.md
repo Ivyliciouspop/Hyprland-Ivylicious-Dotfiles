@@ -12,3 +12,4 @@
       GTK-4.0
       Thunar
       Waybar
+      PKG AND AUR LIST
